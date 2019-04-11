@@ -5,3 +5,4 @@
 
 [2. A Crash Course in Python](https://mybinder.org/v2/gh/prteek/dataScienceFromScratch/master?filepath=CrashCourseInPython.ipynb)  
 [3. Vizualisation](https://mybinder.org/v2/gh/prteek/dataScienceFromScratch/master?filepath=VisualizingData.ipynb)    
+[4. Linear Algebra](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=LinearAlgebra.ipynb)
