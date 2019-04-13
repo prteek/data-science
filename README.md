@@ -8,3 +8,4 @@
 [4. Linear Algebra](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=LinearAlgebra.ipynb)  
 [5. Statistics](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=Statistics.ipynb)  
 [6. Probability](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=Probability.ipynb)  
+[7. Hypothesis and Inference](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=HypothesisAndInference.ipynb)  
