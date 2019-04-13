@@ -7,3 +7,4 @@
 [3. Vizualisation](https://mybinder.org/v2/gh/prteek/dataScienceFromScratch/master?filepath=VisualizingData.ipynb)    
 [4. Linear Algebra](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=LinearAlgebra.ipynb)  
 [5. Statistics](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=Statistics.ipynb)  
+[6. Probability](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=Probability.ipynb)  
