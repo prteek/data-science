@@ -1,1 +1,4 @@
 matplotlib==3.*
+beautifulsoup4
+html5lib
+requests
