@@ -10,3 +10,4 @@
 [6. Probability](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=Probability.ipynb)  
 [7. Hypothesis and Inference](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=HypothesisAndInference.ipynb)  
 [8. Gradient Descent](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=GradientDescent.ipynb)  
+[9. Getting Data](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=GettingData.ipynb)  
