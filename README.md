@@ -13,3 +13,4 @@
 [9. Getting Data](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=GettingData.ipynb)  
 [10. Working with Data](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=WorkingWithData.ipynb)  
 [11. Machine Learning](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=MachineLearning.ipynb)  
+[13. k-Nearest Neighbours](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=kNearestNeighbours.ipynb)  
