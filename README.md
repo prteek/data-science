@@ -3,8 +3,8 @@
 #### FIRST PRINCIPLES WITH PYTHON
 ##### - Joel Grus
 
-[2. A Crash Course in Python](https://mybinder.org/v2/gh/prteek/dataScienceFromScratch/master?filepath=CrashCourseInPython.ipynb)  
-[3. Vizualisation](https://mybinder.org/v2/gh/prteek/dataScienceFromScratch/master?filepath=VisualizingData.ipynb)    
+[2. A Crash Course in Python](https://nbviewer.jupyter.org/github/prteek/data-science/blob/master/CrashCourseInPython.ipynb)  
+[3. Vizualisation](https://nbviewer.jupyter.org/github/prteek/data-science/blob/master/VisualizingData.ipynb)    
 [4. Linear Algebra](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=LinearAlgebra.ipynb)  
 [5. Statistics](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=Statistics.ipynb)  
 [6. Probability](https://mybinder.org/v2/gh/prteek/data-science/master?filepath=Probability.ipynb)  
