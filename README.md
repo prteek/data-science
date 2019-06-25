@@ -17,3 +17,4 @@
 [13. Naive Bayes](https://nbviewer.jupyter.org/github/prteek/data-science/blob/master/NaiveBayes.ipynb)  
 [14. SimpleLinearRegression.ipynb](https://nbviewer.jupyter.org/github/prteek/data-science/blob/master/SimpleLinearRegression.ipynb)  
 [15. MultipleRegression.ipynb](https://nbviewer.jupyter.org/github/prteek/data-science/blob/master/MultipleRegression.ipynb)  
+[16. LogisticRegression.ipynb](https://nbviewer.jupyter.org/github/prteek/data-science/blob/master/LogisticRegression.ipynb)  
