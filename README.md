@@ -18,3 +18,4 @@
 [14. SimpleLinearRegression](https://nbviewer.jupyter.org/github/prteek/data-science/blob/master/SimpleLinearRegression.ipynb)  
 [15. MultipleRegression](https://nbviewer.jupyter.org/github/prteek/data-science/blob/master/MultipleRegression.ipynb)  
 [16. LogisticRegression](https://nbviewer.jupyter.org/github/prteek/data-science/blob/master/LogisticRegression.ipynb)  
+[17. DecisionTrees](https://nbviewer.jupyter.org/github/prteek/data-science/blob/master/DecisionTrees.ipynb)  
